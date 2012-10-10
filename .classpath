@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="JarFiles/cassandra-all-0.7.4.jar"/>
+	<classpathentry kind="lib" path="JarFiles/cassandra-javautils-0.7.0.jar"/>
+	<classpathentry kind="lib" path="JarFiles/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="JarFiles/google-collect-1.0.jar"/>
+	<classpathentry kind="lib" path="JarFiles/hector-core-0.7.0-29.jar"/>
+	<classpathentry kind="lib" path="JarFiles/high-scale-lib-1.1.1.jar"/>
+	<classpathentry kind="lib" path="JarFiles/libthrift-0.5.0.jar"/>
+	<classpathentry kind="lib" path="JarFiles/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="JarFiles/perf4j-0.9.12.jar"/>
+	<classpathentry kind="lib" path="JarFiles/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
